@@ -4,7 +4,7 @@ import eslintPlugin from "vite-plugin-eslint";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    // base: "/radix-multi-select-filter/",
+    base: "/radix-multi-select-filter/",
     plugins: [
         react(),
         eslintPlugin({
