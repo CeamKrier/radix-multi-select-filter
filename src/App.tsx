@@ -2,7 +2,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 import MultiSelect from "./components/MultiSelect";
 
-const OPTIONS_REMOTE_ADDR = "/data.json";
+const OPTIONS_REMOTE_ADDR = "/radix-multi-select-filter/data.json";
 
 const router = createBrowserRouter(
     [
