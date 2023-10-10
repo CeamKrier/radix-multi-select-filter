@@ -38,5 +38,17 @@
         "typescript": "^5.0.2",
         "vite": "^4.4.5",
         "vite-plugin-eslint": "^1.8.1"
-    }
+    },
+    "keywords": [
+        "multi-select",
+        "react",
+        "vite",
+        "react-query",
+        "fuse.js",
+        "radix-ui",
+        "typescript",
+        "search-filter",
+        "fusejs",
+        "react-router-dom"
+    ]
 }

@@ -2,6 +2,10 @@
 
 The MultiSelect Component is designed to provide a user-friendly interface for selecting multiple options from a list. It fetches data from a specified remote address, and allows for real-time searching and selection of options. This documentation outlines the key features of the component, the libraries and hooks used, and the rationale behind the design choices made.
 
+## Try it
+
+You can check the working demo on here: [https://ceamkrier.github.io/radix-multi-select-filter/](https://ceamkrier.github.io/radix-multi-select-filter/)
+
 ## Table of Contents
 
 1. [Key Features](#key-features)
