@@ -11,7 +11,7 @@ const router = createBrowserRouter([
             return (
                 <section className='flex min-h-screen min-w-screen'>
                     <div className='flex flex-1 flex-col items-center justify-center'>
-                        <h1 className='text-3xl font-bold underline'>Hello, world!</h1>
+                        <h1 className='text-3xl font-bold underline'>Multi-select Filter</h1>
                         <div className='my-6' />
 
                         <MultiSelect optionsRemoteAddress={OPTIONS_REMOTE_ADDR} />
